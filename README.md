@@ -6,11 +6,11 @@
 - [cite_start]🔭 I’m currently working as a **Front-End Developer**[cite: 65, 83].
 - [cite_start]🎓 I led the **"HOPE"** Graduation Project (A Social Service Platform) to an **Excellent grade**.
 - [cite_start]🌱 I’m currently proficient in **React.js, Redux Toolkit, and Tailwind CSS**[cite: 29, 74, 94].
-- 👨‍💻 All of my projects are available at [https://saeed-ramadan.github.io/Saeed-Portfolio/](https://saeed-ramadan.github.io/Saeed-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://saeed-ramadan.github.io/Saeed-Portfolio/](https://saeed-portfolio-taupe.vercel.app/)
 - [cite_start]🏫 I have mentored **500+ students** in programming and web development.
 - [cite_start]💬 Ask me about **JavaScript (ES6+), React, and Teaching Pedagogy**[cite: 24, 28, 69].
 - [cite_start]📫 How to reach me: **saeedramadan82@gmail.com** [cite: 3, 66]
-- 📄 My Resume: [Click here to view](https://drive.google.com/file/d/1Lpa2XL_a4wi0eqSVyPMedfe464fwrbpZ/view?usp=share_link)
+- 📄 My Resume: [Click here to view](https://drive.google.com/file/d/1vliPy6uLEpHRo20XEy41N6U8clfVydrJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
